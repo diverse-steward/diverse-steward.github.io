@@ -15,7 +15,6 @@
 | ------------- |:-------------:| -----:|
 | | | |
 
+## Resources on campus:
 
-
-### Resources on campus:
-
+[**Link to articles**](https://docs.google.com/document/d/1eDh4wD0vQzbsziArDiIWJWWZfIRnsm0PZ0mpT0bFVQg/edit)
