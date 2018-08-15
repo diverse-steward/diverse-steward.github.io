@@ -1,17 +1,20 @@
-## Diversity Caffe
+## Diversity Coffee:
 ### Steward Observatory, University of Arizona. 
 
+**Where**: 
+**When**: 
+
+## Code of Conduct: 
+
+## Schedule: 
+
+## 2018-2019:
+
+| Date        | Moderator           | Article  |
+| ------------- |:-------------:| -----:|
+| | | |
 
 
-### Code of Conduct: 
-
-### Schedule: 
 
 ### Resources on campus:
-
-
-%**Bold** and _Italic_ and `Code` text
-
-%[Link](url) and ![Image](src)
-```
 
