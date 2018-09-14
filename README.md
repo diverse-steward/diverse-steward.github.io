@@ -1,4 +1,4 @@
-## Diversity Coffee:
+## Diversity Journal Club:
 ### Steward Observatory, University of Arizona. 
 
 **Where**: 
